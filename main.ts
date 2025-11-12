@@ -1,7 +1,7 @@
-led.plot(0, 0)
+led.plot(3, 4)
 led.plotBarGraph(
 0,
-0
+56
 )
 basic.forever(function () {
 	
